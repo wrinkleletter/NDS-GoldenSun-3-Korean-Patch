@@ -2,6 +2,9 @@
 Korean translation patch for Golden Sun: Dark Dawn
 # 황금의 태양 한글패치
 
+<img width="1942" height="809" alt="황금의 태양 한글 로고" src="https://github.com/user-attachments/assets/089fa680-870c-4a69-80e9-0cfec84ea033" />
+
+
 황금의 태양 한글화 프로젝트입니다.
 
 ## 최신 버전
