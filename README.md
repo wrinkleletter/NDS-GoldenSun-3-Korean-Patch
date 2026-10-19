@@ -1,14 +1,14 @@
 # NDS-GoldenSun-3-Korean-Patch
 Korean translation patch for Golden Sun: Dark Dawn
-# 황금의 태양 한글패치
+# 황금의 태양 한글패치_영문버전
 
 <img width="1942" height="809" alt="황금의 태양 한글 로고" src="https://github.com/user-attachments/assets/089fa680-870c-4a69-80e9-0cfec84ea033" />
 
 
-황금의 태양 한글화 프로젝트입니다.
+황금의 태양 영문버전 한글화 프로젝트입니다.
 
 ## 최신 버전
-v7.0
+v0.69
 
 ## 다운로드
 오른쪽 Releases 메뉴에서 최신 버전을 받아주세요.
